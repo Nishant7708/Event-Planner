@@ -9,4 +9,4 @@ This is a full-stack Event Planner app.
 
 ### 📖 Docs
 
-👉 Full setup instructions are in [`README.md`](README.md)
+👉 Full setup instructions are in [`README.md`](../README.md)

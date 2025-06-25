@@ -1,8 +1,12 @@
 # 📦 Event Planner
 
-This is a full-stack Event Planner app with separate folders for:
+This is a full-stack Event Planner app.
 
-- 📁 `Frontend` → React app with RSVP functionality
-- 📁 `Backend` → Node.js + Express REST API
+### 🧭 Structure
 
-👉 Full setup guide in [`Frontend/README.md`](./Frontend/README.md)
+- `Frontend/` → React app
+- `Backend/` → Express + MongoDB API
+
+### 📖 Docs
+
+👉 Full setup instructions are in [`Frontend/README.md`](Frontend/README.md)

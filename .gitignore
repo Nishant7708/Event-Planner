@@ -1,0 +1,13 @@
+# .gitignore
+
+# Node dependencies
+node_modules/
+.env
+
+# Build files
+dist/
+build/
+
+# System/IDE files
+.DS_Store
+.vscode/
